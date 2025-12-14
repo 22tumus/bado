@@ -77724,7 +77724,7 @@ A.wb.prototype={
 ai(){var s=$.ag()
 return new A.Ns(new A.on(B.ez,s),new A.on(B.ez,s))}}
 A.Ns.prototype={
-L(a1){var s,r,q,p,o=this,n=null,m=A.ak6(!0,B.QQ),l=A.i6(A.bL("Select your bundles below",n,n,n,A.h3(n,n,n,n,n,n,n,n,n,n,n,20,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),k=A.ch(n,20,n),j=A.pQ(A.bL("daily - UG1000",n,n,n,n,n,n),new A.adK(o,a1)),i=A.ch(n,20,n),h=A.pQ(A.bL("weekly - UG15000",n,n,n,n,n,n),new A.adL(a1)),g=A.ch(n,20,n),f=A.pQ(A.bL("monthly  - UG20000",n,n,n,n,n,n),new A.adM()),e=A.ch(n,20,n),d=A.pQ(A.bL("sample for 15min",n,n,n,n,n,n),new A.adN()),c=A.ch(n,20,n),b=A.i6(A.bL("Enter your user name or password",n,n,n,n,n,n),n,n),a=A.ch(n,20,n),a0=A.i1(20)
+L(a1){var s,r,q,p,o=this,n=null,m=A.ak6(!0,B.QQ),l=A.i6(A.bL("Select your bundles below",n,n,n,A.h3(n,n,n,n,n,n,n,n,n,n,n,20,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),k=A.ch(n,20,n),j=A.pQ(A.bL("daily - UG1000",n,n,n,n,n,n),new A.adK(o,a1)),i=A.ch(n,20,n),h=A.pQ(A.bL("weekly - UG15000",n,n,n,n,n,n),new A.adL(a1)),g=A.ch(n,20,n),f=A.pQ(A.bL("monthly  - UG20000",n,n,n,n,n,n),new A.adM()),e=A.ch(n,20,n),d=A.pQ(A.bL("sample for 15min",n,n,n,n,n,n),new A.adN()),c=A.ch(n,20,n),b=A.i6(A.bL("Enter your user name and password",n,n,n,n,n,n),n,n),a=A.ch(n,20,n),a0=A.i1(20)
 a0=A.pB(A.alu(!0,B.co,!1,n,!0,B.P,n,A.atP(),o.e,n,n,n,n,n,2,A.H3(n,new A.eW(4,A.i1(20),new A.b1(B.Hm,1,B.w,-1)),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,"username",!0,n,n,n,n,n,n,n,n,n,n,n,n,n),B.aa,!0,n,!0,n,!1,n,B.cE,n,n,n,n,n,n,n,1,n,n,!1,"\u2022",n,n,n,n,n,!1,n,n,!1,n,!0,n,B.iv,n,n,B.cd,B.bW,n,n,n,n,n,n,n,!0,B.aA,n,B.jW,n,n,n,n),B.A,new A.d2(n,n,n,a0,n,n,B.ay),n,n,n,300)
 s=A.ch(n,20,n)
 r=A.i1(20)
@@ -82633,7 +82633,7 @@ B.PG=new A.l(!0,B.J,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.PY=new A.l(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.N1=new A.l(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.QP=new A.d9(B.OF,B.NJ,B.OG,B.Pe,B.Nn,B.Nu,B.O2,B.P1,B.Og,B.PK,B.MS,B.Nc,B.PG,B.PY,B.N1)
-B.QQ=new A.rg("welcome to home hotspot page",null,null,null,null,null,null,null,null)
+B.QQ=new A.rg("welcome to hotspot page",null,null,null,null,null,null,null,null)
 B.TW=new A.a9t(0,"system")
 B.Ia=new A.i(0.056,0.024)
 B.Ip=new A.i(0.108,0.3085)
