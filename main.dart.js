@@ -78023,7 +78023,7 @@ h=A.aj(c)
 g={}
 A.eo("Login Exception: "+A.m(h))
 g.a="An error occurred: "+A.m(h)
-g.a="CORS Error: Browser blocked request to "+n.a.c+'.\nFor testing, run: flutter run -d chrome --web-browser-flag "--disable-web-security"'
+g.a="CORS Error: Browser blocked request "
 n.aa(new A.aem(g,n,h))
 o.push(5)
 s=4
